@@ -52,7 +52,7 @@ struct Viewport
     unsigned int nx;
     unsigned int ny;
     float fov;
-    Viewport(const float &nx, const float &ny, const float &fov) : nx(nx), ny(ny), fov(fov) {}
+    Viewport(const unsigned int &nx, const unsigned int &ny, const float &fov) : nx(nx), ny(ny), fov(fov) {}
 };
 
 //https://freecutout.com/environment-maps/
@@ -793,7 +793,7 @@ int main()
     Viewport view4(1024, 768, 90);
     Camera cam4(Vec3f(30, 20, 20), Vec3f(-2, 0, -1), 3 * pi / 2);
 
-    EnvironmentMap envmap("./env/envmap8k.ppm", 200);
+    EnvironmentMap envmap("./env/envmap2k.ppm", 200);
 
     render(objs, lights, view, cam, envmap);
 
