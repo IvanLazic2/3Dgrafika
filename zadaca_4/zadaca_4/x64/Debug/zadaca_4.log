@@ -1,0 +1,12 @@
+﻿  main.cpp
+D:\User\Fakse\3D racunalna\Zadace\zadaca_4\zadaca_4\shader.h(42,40): warning C4101: 'e': unreferenced local variable
+D:\User\Fakse\3D racunalna\Zadace\zadaca_4\zadaca_4\mesh.h(70,1): warning C4267: 'argument': conversion from 'size_t' to 'GLsizei', possible loss of data
+D:\User\Fakse\3D racunalna\Zadace\zadaca_4\zadaca_4\main.cpp(149,28): warning C4244: 'initializing': conversion from 'double' to 'float', possible loss of data
+D:\User\Fakse\3D racunalna\Zadace\zadaca_4\zadaca_4\main.cpp(225,17): warning C4244: '=': conversion from 'double' to 'float', possible loss of data
+D:\User\Fakse\3D racunalna\Zadace\zadaca_4\zadaca_4\main.cpp(226,17): warning C4244: '=': conversion from 'double' to 'float', possible loss of data
+D:\User\Fakse\3D racunalna\Zadace\zadaca_4\zadaca_4\main.cpp(230,19): warning C4244: 'initializing': conversion from 'double' to 'float', possible loss of data
+D:\User\Fakse\3D racunalna\Zadace\zadaca_4\zadaca_4\main.cpp(231,19): warning C4244: 'initializing': conversion from 'double' to 'float', possible loss of data
+D:\User\Fakse\3D racunalna\Zadace\zadaca_4\zadaca_4\main.cpp(233,13): warning C4244: '=': conversion from 'double' to 'float', possible loss of data
+D:\User\Fakse\3D racunalna\Zadace\zadaca_4\zadaca_4\main.cpp(234,13): warning C4244: '=': conversion from 'double' to 'float', possible loss of data
+D:\User\Fakse\3D racunalna\Zadace\zadaca_4\zadaca_4\main.cpp(241,31): warning C4244: 'argument': conversion from 'double' to 'float', possible loss of data
+  zadaca_4.vcxproj -> D:\User\Fakse\3D racunalna\Zadace\zadaca_4\x64\Debug\zadaca_4.exe
